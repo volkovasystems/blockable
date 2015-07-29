@@ -1,0 +1,26 @@
+{
+  "name": "blockable",
+  "version": "0.0.0",
+  "description": "Blocks method chaining flow by replacing subsequent method calls with empty calls.",
+  "main": "blockable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/blockable.git"
+  },
+  "keywords": [
+    "stream-blocking",
+    "blocking"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/blockable/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/blockable#readme",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
