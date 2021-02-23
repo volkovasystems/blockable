@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/volkovasystems/blockable#readme",
   "dependencies": {
-    "lodash": "^3.10.0"
+    "lodash": "^4.17.21"
   }
 }
